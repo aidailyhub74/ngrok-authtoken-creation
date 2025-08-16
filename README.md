@@ -12,7 +12,7 @@ Follow these steps to retrieve your Ngrok Authtoken:
 
 🎥 Watch the full YouTube tutorial here: https://www.youtube.com/watch?v=3qvuY-EY8to  
 
---
+
 
 ## Run Streamlit in Colab
 
@@ -20,7 +20,7 @@ After setting up your Ngrok Authtoken, you can run a Streamlit app directly insi
 
 👉 Open the **`webui.ipynb`** notebook and run it **step by step** to launch your Streamlit app seamlessly in Colab. 🚀  
 
---
+
 
 ## Explore More AI/ML Support  
 
