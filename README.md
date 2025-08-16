@@ -10,7 +10,7 @@ Follow these steps to retrieve your Ngrok Authtoken:
 
 ✅ Once you click **Copy**, your Ngrok token will be stored in your clipboard.  
 
-🎥 Watch the full YouTube tutorial here: https://www.youtube.com/watch?v=3qvuY-EY8to  
+🎥 Watch the full YouTube tutorial here: [Ngrok Authtoken Tutorial](https://www.youtube.com/watch?v=3qvuY-EY8to) 
 
 
 
