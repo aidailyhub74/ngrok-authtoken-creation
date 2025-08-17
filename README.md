@@ -9,8 +9,7 @@ Follow these steps to retrieve your Ngrok Authtoken:
 3. Click on the **"Copy"** button to copy the token.  
 
 ✅ Once you click **Copy**, your Ngrok token will be stored in your clipboard.  
-
-🎥 Watch the full YouTube tutorial here: [Ngrok Authtoken Tutorial](https://www.youtube.com/watch?v=3qvuY-EY8to) 
+🎥 Watch the full YouTube tutorial here: [Ngrok Authtoken Tutorial](https://www.youtube.com/watch?v=9CL1_QnUnvc) 
 
 
 
@@ -19,6 +18,7 @@ Follow these steps to retrieve your Ngrok Authtoken:
 After setting up your Ngrok Authtoken, you can run a Streamlit app directly inside Google Colab.  
 
 👉 Open the **`webui.ipynb`** notebook and run it **step by step** to launch your Streamlit app seamlessly in Colab. 🚀  
+🎥 Watch the full YouTube tutorial here: [Streamlit_Ngrok Tutorial](https://www.youtube.com/watch?v=3qvuY-EY8to) 
 
 
 
